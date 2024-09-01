@@ -15,12 +15,6 @@ I'm currently working on Fullstack Ecommerce Application and AI Integration
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HarryNg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github.com/reimbo/tukko)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HarryNg&icon=0&color=1)](https://visitcount.itsvg.in)
 
